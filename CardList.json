@@ -341,14 +341,14 @@
     "face": {
       "front": {
         "name": "Conduíte de Mana",
-        "type": "unidade",
+        "type": "decreto",
         "cost": 0,
         "image": "https://i.imgur.com/SiRdRU5.png",
         "isHorizontal": false
       }
     },
     "name": "Conduíte de Mana",
-    "type": "unidade",
+    "type": "decreto",
     "cost": 0
   },
   "card23": {
@@ -468,6 +468,38 @@
     },
     "name": "Embalsamador-Chefe",
     "type": "unidade",
+    "cost": 0
+  },
+  "card29": {
+    "id": "29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Balança da Verdade",
+        "type": "decreto",
+        "cost": "1",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/A_Balan%C3%A7a_da_Verdade.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Balança da Verdade",
+    "type": "decreto",
+    "cost": 0
+  },
+  "card30": {
+    "id": "card30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Adagas do Trapaceiro",
+        "type": "artefato",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Adagas_do_Trapaceiro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Adagas do Trapaceiro",
+    "type": "artefato",
     "cost": 0
   }
 }
