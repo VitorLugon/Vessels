@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Loki",
+    "id": "61b27757-7764-4f4e-a44b-5aa3faa7a98e",
+    "game": "Mythologies",
+    "format": [
+      "Classic"
+    ],
+    "cardCount": 43,
+    "createdAt": "2026-02-10T21:42:06.162Z",
+    "lastModifiedAt": "2026-02-10T21:46:21.066Z",
+    "deckList": {
+      "categoriesOrder": [
+        "flamula2",
+        "flamula1",
+        "divindade",
+        "unidade",
+        "decreto",
+        "fenda",
+        "encantamento",
+        "artefato"
+      ],
+      "Sideboard": [
+        
+      ],
+      "divindade": [
+        {
+          "count": 1,
+          "id": "card53"
+        }
+      ],
+      "unidade": [
+        {
+          "count": 3,
+          "id": "card43"
+        },
+        {
+          "count": 3,
+          "id": "card41"
+        },
+        {
+          "count": 3,
+          "id": "card48"
+        },
+        {
+          "count": 3,
+          "id": "card57"
+        },
+        {
+          "count": 3,
+          "id": "card76"
+        },
+        {
+          "count": 2,
+          "id": "card68"
+        },
+        {
+          "count": 2,
+          "id": "card38"
+        },
+        {
+          "count": 1,
+          "id": "card45"
+        },
+        {
+          "count": 1,
+          "id": "cad42"
+        },
+        {
+          "count": 1,
+          "id": "card49"
+        },
+        {
+          "count": 2,
+          "id": "card37"
+        }
+      ],
+      "decreto": [
+        {
+          "count": 2,
+          "id": "card75"
+        },
+        {
+          "count": 2,
+          "id": "card35"
+        },
+        {
+          "count": 2,
+          "id": "card65"
+        },
+        {
+          "count": 1,
+          "id": "card60"
+        }
+      ],
+      "fenda": [
+        {
+          "count": 1,
+          "id": "card67"
+        },
+        {
+          "count": 1,
+          "id": "card66"
+        },
+        {
+          "count": 1,
+          "id": "card39"
+        }
+      ],
+      "encantamento": [
+        {
+          "count": 2,
+          "id": "card63"
+        }
+      ],
+      "artefato": [
+        {
+          "count": 2,
+          "id": "card30"
+        },
+        {
+          "count": 2,
+          "id": "card64"
+        }
+      ],
+      "flamula1": [
+        {
+          "count": 1,
+          "id": "flamula03"
+        }
+      ],
+      "flamula2": [
+        {
+          "count": 1,
+          "id": "flamula04"
+        }
+      ]
+    }
+  },
+ 
+{
+  "title": "Anubis",
+  "id": "046edd21-25bd-460c-b8c4-d1621013288a",
+  "game": "Mythologies",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 43,
+  "createdAt": "2026-02-10T22:02:32.809Z",
+  "lastModifiedAt": "2026-02-10T22:03:15.195Z",
+  "deckList": {
+    "categoriesOrder": [
+      "flamula2",
+      "flamula1",
+      "divindade",
+      "unidade",
+      "decreto",
+      "encantamento",
+      "fenda",
+      "artefato"
+    ],
+    "Sideboard": [],
+    "divindade": [
+      {
+        "count": 1,
+        "id": "card33"
+      }
+    ],
+    "unidade": [
+      {
+        "count": 3,
+        "id": "card62"
+      },
+      {
+        "count": 3,
+        "id": "card58"
+      },
+      {
+        "count": 2,
+        "id": "card44"
+      },
+      {
+        "count": 2,
+        "id": "card70"
+      },
+      {
+        "count": 3,
+        "id": "card28"
+      },
+      {
+        "count": 1,
+        "id": "card52"
+      },
+      {
+        "count": 2,
+        "id": "card47"
+      },
+      {
+        "count": 1,
+        "id": "card36"
+      },
+      {
+        "count": 2,
+        "id": "card40"
+      },
+      {
+        "count": 2,
+        "id": "card31"
+      },
+      {
+        "count": 1,
+        "id": "card32"
+      },
+      {
+        "count": 2,
+        "id": "card56"
+      }
+    ],
+    "decreto": [
+      {
+        "count": 2,
+        "id": "card69"
+      },
+      {
+        "count": 2,
+        "id": "card50"
+      },
+      {
+        "count": 1,
+        "id": "card51"
+      },
+      {
+        "count": 2,
+        "id": "card71"
+      },
+      {
+        "count": 2,
+        "id": "card80"
+      }
+    ],
+    "encantamento": [
+      {
+        "count": 2,
+        "id": "card55"
+      }
+    ],
+    "fenda": [
+      {
+        "count": 1,
+        "id": "card59"
+      },
+      {
+        "count": 1,
+        "id": "card61"
+      },
+      {
+        "count": 1,
+        "id": "card46"
+      }
+    ],
+    "flamula1": [
+      {
+        "count": 1,
+        "id": "flamula04"
+      }
+    ],
+    "flamula2": [
+      {
+        "count": 1,
+        "id": "flamula05"
+      }
+    ],
+    "artefato": [
+      {
+        "count": 2,
+        "id": "card29"
+      }
+    ]
+  }
+} 
+   
+]
