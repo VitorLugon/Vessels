@@ -8,7 +8,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://vitorlugon.github.io/Vessels/CardList.json",
+    "dataUrl": "https://vitorlugon.github.io/Vessels/Card_List.json",
     "cardBack": "https://i.imgur.com/pR0Bw9F.png"
   },
   "deckBuilding": {
