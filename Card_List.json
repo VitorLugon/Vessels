@@ -476,14 +476,14 @@
     "face": {
       "front": {
         "name": "A Balança da Verdade",
-        "type": "decreto",
-        "cost": "1",
+        "type": "artefato",
+        "cost": "0",
         "image": "https://vitorlugon.github.io/Vessels/Imagens/A_Balan%C3%A7a_da_Verdade.png",
         "isHorizontal": false
       }
     },
     "name": "A Balança da Verdade",
-    "type": "decreto",
+    "type": "artefato",
     "cost": 0
   },
   "card30": {
@@ -544,26 +544,17 @@
         "cost": 0,
         "image": "https://vitorlugon.github.io/Vessels/Imagens/Anubis_o%20Burocrata_da_Morte.png",
         "isHorizontal": false
-      }
-    },
-    "name": "Anubis, o Burocrata da Morte",
-    "type": "divindade",
-    "cost": 0
-  },
-  "card34": {
-    "id": "card34",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Anubis, o Julgador",
+      },
+      "back": {
+        "name": "Anubis, o julgador",
         "type": "unidade",
         "cost": 0,
         "image": "https://vitorlugon.github.io/Vessels/Imagens/Anubis_o_Julgador.png",
         "isHorizontal": false
       }
     },
-    "name": "Anubis, o Julgador",
-    "type": "unidade",
+    "name": "Anubis, o Burocrata da Morte",
+    "type": "divindade",
     "cost": 0
   },
   "card35": {
@@ -864,26 +855,17 @@
         "cost": 0,
         "image": "https://vitorlugon.github.io/Vessels//Imagens/Loki_o_Arquiteto_do_Caos.png",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Loki, o Deus da Mentira",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Loki_o_Deus_da_Mentira.png",
+        "isHorizontal": false
       }
     },
     "name": "Loki, o Arquiteto do Caos",
     "type": "divindade",
-    "cost": 0
-  },
-  "card54": {
-    "id": "card54",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Loki, o Deus da Mentira",
-        "type": "unidade",
-        "cost": 0,
-        "image": "https://vitorlugon.github.io/Vessels//Imagens/Loki_o_Deus_da_Mentira.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Loki, o Deus da Mentira",
-    "type": "unidade",
     "cost": 0
   },
   "card55": {
@@ -1268,6 +1250,22 @@
     },
     "name": "Flâmula Preta",
     "type": "flamula",
+    "cost": 0
+  },
+  "card80": {
+    "id": "card80",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sentença Inevitável",
+        "type": "decreto",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Senten%C3%A7a_Inevit%C3%A1vel.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sentença Inevitável",
+    "type": "decreto",
     "cost": 0
   }
 }
