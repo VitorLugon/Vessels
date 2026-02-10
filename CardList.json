@@ -1045,5 +1045,229 @@
     "name": "Pedra da Discórdia",
     "type": "artefato",
     "cost": 0
+  },
+  "card65": {
+    "id": "card65",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Riso Louco",
+        "type": "decreto",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Riso_Louco.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Riso Louco",
+    "type": "decreto",
+    "cost": 0
+  },
+  "card66": {
+    "id": "card66",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ruinas de Asgard",
+        "type": "fenda",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Ruinas_de_Asgard.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ruinas de Asgard",
+    "type": "fenda",
+    "cost": 0
+  },
+  "card67": {
+    "id": "card67",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Salao dos Espelhos",
+        "type": "fenda",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Salao_dos_Espelhos.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Salao dos Espelhos",
+    "type": "fenda",
+    "cost": 0
+  },
+  "card68": {
+    "id": "card68",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sigyn, a Leal",
+        "type": false,
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Sigyn_a_Leal.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sigyn, a Leal",
+    "type": false,
+    "cost": 0
+  },
+  "card69": {
+    "id": "card69",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sussurro do Além",
+        "type": "decreto",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Sussurro_do_Al%C3%A9m.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sussurro do Além",
+    "type": "decreto",
+    "cost": 0
+  },
+  "card70": {
+    "id": "card70",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tecelã de Linho Sagrado",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Tecel%C3%A3_de_Linho_Sagrado.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tecelã de Linho Sagrado",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card71": {
+    "id": "card71",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempestade de Areia",
+        "type": "decreto",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Tempestade_de_Areia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempestade de Areia",
+    "type": "decreto",
+    "cost": 0
+  },
+  "card73": {
+    "id": "card73",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Token Espírito",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Token_Esp%C3%ADrito.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Token Espírito",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card74": {
+    "id": "card74",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Token Lobo",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Token_Lobo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Token Lobo",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card75": {
+    "id": "card75",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Troca de Peles",
+        "type": "decreto",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Troca_de_Peles.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Troca de Peles",
+    "type": "decreto",
+    "cost": 0
+  },
+  "card76": {
+    "id": "card76",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vulto das Brumas",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Vulto_das_Brumas.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vulto das Brumas",
+    "type": "unidade",
+    "cost": 0
+  },
+  "flamula03": {
+    "id": "flamula03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flâmula Azul",
+        "type": "flamula",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Flamula_Azul.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flâmula Azul",
+    "type": "flamula",
+    "cost": 0
+  },
+  "flamula04": {
+    "id": "flamula04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flâmula Roxa",
+        "type": "flamula",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Flamula_Roxa.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flâmula Roxa",
+    "type": "flamula",
+    "cost": 0
+  },
+  "flamula05": {
+    "id": "flamula05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flâmula Preta",
+        "type": "flamula",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Flamula_Preta.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flâmula Preta",
+    "type": "flamula",
+    "cost": 0
   }
 }
