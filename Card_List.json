@@ -1082,14 +1082,14 @@
     "face": {
       "front": {
         "name": "Sigyn, a Leal",
-        "type": false,
+        "type": "unidade",
         "cost": 0,
         "image": "https://vitorlugon.github.io/Vessels/Imagens/Sigyn_a_Leal.png",
         "isHorizontal": false
       }
     },
     "name": "Sigyn, a Leal",
-    "type": false,
+    "type": "unidade",
     "cost": 0
   },
   "card69": {
