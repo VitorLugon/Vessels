@@ -470,22 +470,6 @@
     "type": "unidade",
     "cost": 0
   },
-  "card29": {
-    "id": "29",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "A Balança da Verdade",
-        "type": "artefato",
-        "cost": "0",
-        "image": "https://vitorlugon.github.io/Vessels/Imagens/A_Balan%C3%A7a_da_Verdade.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "A Balança da Verdade",
-    "type": "artefato",
-    "cost": 0
-  },
   "card30": {
     "id": "card30",
     "isToken": false,
@@ -1266,6 +1250,22 @@
     },
     "name": "Sigyn, a Leal",
     "type": "unidade",
+    "cost": 0
+  },
+  "card29": {
+    "id": "card29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Balança da Verdade",
+        "type": "artefato",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/A_Balan%C3%A7a_da_Verdade.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Balança da Verdade",
+    "type": "artefato",
     "cost": 0
   }
 }
