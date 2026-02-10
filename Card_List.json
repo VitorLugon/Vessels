@@ -1076,22 +1076,6 @@
     "type": "fenda",
     "cost": 0
   },
-  "card68": {
-    "id": "card68",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Sigyn, a Leal",
-        "type": "unidade",
-        "cost": 0,
-        "image": "https://vitorlugon.github.io/Vessels/Imagens/Sigyn_a_Leal.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Sigyn, a Leal",
-    "type": "unidade",
-    "cost": 0
-  },
   "card69": {
     "id": "card69",
     "isToken": false,
@@ -1266,6 +1250,22 @@
     },
     "name": "Sentença Inevitável",
     "type": "decreto",
+    "cost": 0
+  },
+  "card68": {
+    "id": "card68",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sigyn, a Leal",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Sigyn_a_Leal.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sigyn, a Leal",
+    "type": "unidade",
     "cost": 0
   }
 }
