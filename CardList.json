@@ -501,5 +501,549 @@
     "name": "Adagas do Trapaceiro",
     "type": "artefato",
     "cost": 0
+  },
+  "card31": {
+    "id": "card31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ammit, a Devoradora de Mortos",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Ammit_a_Devoradora_de_Mortos.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ammit, a Devoradora de Mortos",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card32": {
+    "id": "card32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anput, a Protetora",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Anput_a_Protetora.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anput, a Protetora",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card33": {
+    "id": "card33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anubis, o Burocrata da Morte",
+        "type": "divindade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Anubis_o%20Burocrata_da_Morte.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anubis, o Burocrata da Morte",
+    "type": "divindade",
+    "cost": 0
+  },
+  "card34": {
+    "id": "card34",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anubis, o Julgador",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Anubis_o_Julgador.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anubis, o Julgador",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card35": {
+    "id": "card35",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aposta de Loki",
+        "type": "decreto",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Aposta_de_Loki.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aposta de Loki",
+    "type": "decreto",
+    "cost": 0
+  },
+  "card36": {
+    "id": "card36",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arauto de Ammit",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Arauto_de_Ammit.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arauto de Ammit",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card37": {
+    "id": "card37",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arremessador de Runas",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Arremessador_de_Runas.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arremessador de Runas",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card38": {
+    "id": "card38",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Berserker do Caos",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Berserker_do_Caos.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Berserker do Caos",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card39": {
+    "id": "card39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bifrost Estilhaçada",
+        "type": "fenda",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Bifrost_Estilha%C3%A7ada.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bifrost Estilhaçada",
+    "type": "fenda",
+    "cost": 0
+  },
+  "card40": {
+    "id": "card40",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carcereiro de Duat",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Carcereiro_de_Duat.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carcereiro de Duat",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card41": {
+    "id": "card41",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espião de Asgard",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Espiao_de_Asgard.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espião de Asgard",
+    "type": "unidade",
+    "cost": 0
+  },
+  "cad42": {
+    "id": "cad42",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fenrir, o Devorador",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Fenir_o_Devorador.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fenrir, o Devorador",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card43": {
+    "id": "card43",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Filha de Angrboda",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Filha_de_Angrboda.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Filha de Angrboda",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card44": {
+    "id": "card44",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guarda da Necrópole",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Guarda_da_Necr%C3%B3pole.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guarda da Necrópole",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card45": {
+    "id": "card45",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hel, a Guardiã",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Hel_a_Guardia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hel, a Guardiã",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card46": {
+    "id": "card46",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dunas Infinitas",
+        "type": "fenda",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Dunas_Infinitas.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dunas Infinitas",
+    "type": "fenda",
+    "cost": 0
+  },
+  "card47": {
+    "id": "card47",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Escorpião de Areia",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Escorpi%C3%A3o_de_Areia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Escopião de Areia",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card48": {
+    "id": "card48",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ilusionista Metamorfo",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Ilusionista_Metamorfo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ilusionista Metamorfo",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card49": {
+    "id": "card49",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jormungandr, a Serpente do Mundo",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Jormungandr_a_Serpente_do_Mundo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jormungandr, a Serpente do Mundo",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card50": {
+    "id": "card50",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Julgamento das Areias",
+        "type": "decreto",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Julgamento_das_Areias.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Julgamento das Areias",
+    "type": "decreto",
+    "cost": 0
+  },
+  "card51": {
+    "id": "card51",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Julgamento de Osíris",
+        "type": "decreto",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Julgamento_de_Os%C3%ADris.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Julgamento de Osíris",
+    "type": "decreto",
+    "cost": 0
+  },
+  "card52": {
+    "id": "card52",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kebechet, a Embalsamadora",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Kebechet_a_Embalsamadora.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kebechet, a Embalsamadora",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card53": {
+    "id": "card53",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loki, o Arquiteto do Caos",
+        "type": "divindade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Loki_o_Arquiteto_do_Caos.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loki, o Arquiteto do Caos",
+    "type": "divindade",
+    "cost": 0
+  },
+  "card54": {
+    "id": "card54",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loki, o Deus da Mentira",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Loki_o_Deus_da_Mentira.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loki, o Deus da Mentira",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card55": {
+    "id": "card55",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maldição do Faraó",
+        "type": "encantamento",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Maldi%C3%A7%C3%A3o_do_Fara%C3%B3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maldição do Faraó",
+    "type": "encantamento",
+    "cost": 0
+  },
+  "card56": {
+    "id": "card56",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medjai do Arco de Obsidiana",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Medjai_do_Arco_de_Obsidiana.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medjai do Arco de Obsidiana",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card57": {
+    "id": "card57",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mimico Zombeteiro",
+        "type": false,
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Mimico_Zombeteiro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mimico Zombeteiro",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card58": {
+    "id": "card58",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Múmia Errante",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/M%C3%BAmia_Errante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Múmia Errante",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card59": {
+    "id": "card59",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Necrópole Esquecida",
+        "type": "fenda",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Necr%C3%B3pole_Esquecida.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Necrópole Esquecida",
+    "type": "fenda",
+    "cost": 0
+  },
+  "card60": {
+    "id": "card60",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O Grande Golpe",
+        "type": "decreto",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/O_Grande_Golpe.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "O Grande Golpe",
+    "type": "decreto",
+    "cost": 0
+  },
+  "card61": {
+    "id": "card61",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O Rio Nilo",
+        "type": "fenda",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/O_Rio_Nilo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "O Rio Nilo",
+    "type": "fenda",
+    "cost": 0
+  },
+  "card62": {
+    "id": "card62",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oficiante Funerário",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Oficiante_Funer%C3%A1rio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oficiante Funerário",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card63": {
+    "id": "card63",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ouro de Tolo",
+        "type": "encantamento",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Ouro_de_Tolo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ouro de Tolo",
+    "type": "encantamento",
+    "cost": 0
+  },
+  "card64": {
+    "id": "card64",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pedra da Discórdia",
+        "type": "artefato",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels//Imagens/Pedra_da_Discordia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pedra da Discórdia",
+    "type": "artefato",
+    "cost": 0
   }
 }
