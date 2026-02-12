@@ -1,6 +1,6 @@
 {
-  "name": "Mythologies",
-  "menuBackgroundImage": "",
+  "name": "Vessels",
+  "menuBackgroundImage": "https://i.imgur.com/houBQxh.png",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": "https://vitorlugon.github.io/Vessels/Starter_Decks.json"
@@ -9,7 +9,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://vitorlugon.github.io/Vessels/Card_List.json",
-    "cardBack": "https://i.imgur.com/pR0Bw9F.png"
+    "cardBack": "https://i.imgur.com/houBQxh.png"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -53,13 +53,13 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "lane1",
-          "lane2",
-          "lane3",
-          "banco",
+          "fronte1",
+          "fronte2",
+          "fronte3",
+          "limiar",
           "flamula1",
           "flamula2",
-          "estadio",
+          "fenda",
           "divindade"
         ],
         "layout": {
@@ -121,7 +121,7 @@
                   "style": false
                 },
                 {
-                  "section": "banco",
+                  "section": "limiar",
                   "style": {
                     "width": "33vw"
                   }
@@ -137,60 +137,12 @@
           "flamula2"
         ],
         "autoPlayFromHand": {
-          "unidade": "banco"
+          "unidade": "limiar"
         },
         "autoPlayFromStack": {
-          "unidade": "banco"
+          "unidade": "limiar"
         },
         "sectionsDict": {
-          "banco": {
-            "title": "banco",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "lane1": {
-            "title": "lane1",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Lane",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "lane2": {
-            "title": "lane2",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Lane",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "flamula1": {
             "title": "flamula1",
             "isHidden": "no",
@@ -223,15 +175,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "lane3": {
-            "title": "lane3",
+          "divindade": {
+            "title": "divindade",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Lane",
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -239,8 +191,24 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "estadio": {
-            "title": "estadio",
+          "limiar": {
+            "title": "limiar",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "fenda": {
+            "title": "fenda",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -255,15 +223,47 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "divindade": {
-            "title": "divindade",
+          "fronte3": {
+            "title": "fronte3",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Fronte",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "fronte2": {
+            "title": "fronte2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Fronte",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "fronte1": {
+            "title": "fronte1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Fronte",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
