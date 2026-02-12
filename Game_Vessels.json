@@ -71,7 +71,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "estadio",
+                  "section": "fenda",
                   "style": false
                 }
               ],
@@ -88,15 +88,15 @@
                   }
                 },
                 {
-                  "section": "lane1",
+                  "section": "fronte1",
                   "style": false
                 },
                 {
-                  "section": "lane2",
+                  "section": "fronte2",
                   "style": false
                 },
                 {
-                  "section": "lane3",
+                  "section": "fronte3",
                   "style": false
                 }
               ],
