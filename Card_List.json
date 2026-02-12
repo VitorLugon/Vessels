@@ -7,7 +7,7 @@
         "name": "Centelha de Oricalco",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/xgRLqZf.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Centelha_de_Oricalco.png",
         "isHorizontal": false
       }
     },
@@ -23,7 +23,7 @@
         "name": "Espírito da Bruma",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/G5U6Pve.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Espírito_da_Bruma.png",
         "isHorizontal": false
       }
     },
@@ -39,7 +39,7 @@
         "name": "A Águia",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/OXWYdTt.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/A_%C3%81guia.png",
         "isHorizontal": false
       }
     },
@@ -55,7 +55,7 @@
         "name": "Escudeiro da Guarda",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/0hdHaom.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Escudeiro_da_Guarda.png",
         "isHorizontal": false
       }
     },
@@ -71,7 +71,7 @@
         "name": "Aprendiz do Tempo",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/Anzzf7m.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Aprendiz_do_Tempo.png",
         "isHorizontal": false
       }
     },
@@ -87,7 +87,7 @@
         "name": "Arqueiro do Olimpo",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/3pG8Sd8.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Arqueiro_do_Olimpo.png",
         "isHorizontal": false
       }
     },
@@ -103,7 +103,7 @@
         "name": "Mago de Batalha",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/4XYnnm9.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Mago_de_Batalha.png",
         "isHorizontal": false
       }
     },
@@ -119,7 +119,7 @@
         "name": "Capitão de Oricalco",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/JHi4d6j.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Capitão_de_Oricalco.png",
         "isHorizontal": false
       }
     },
@@ -135,7 +135,7 @@
         "name": "Estrategista das Nuvens",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/EY2MRVy.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Estrategista_das_Nuvens.png",
         "isHorizontal": false
       }
     },
@@ -151,7 +151,7 @@
         "name": "Arquimago do Infinito",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/i5nbVmt.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Arquimago_do_Infinito.png",
         "isHorizontal": false
       }
     },
@@ -167,7 +167,7 @@
         "name": "Ninfa Trovejante",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/BjXAvbQ.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Ninfa_Trovejante.png",
         "isHorizontal": false
       }
     },
@@ -183,7 +183,7 @@
         "name": "Apolo, Arqueiro Solar",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/6seEHST.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Apolo_Arqueiro_Solar.png",
         "isHorizontal": false
       }
     },
@@ -199,7 +199,7 @@
         "name": "Quimera da Tempestade",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/BgQ9peA.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Quimera_da_Tempestade.png",
         "isHorizontal": false
       }
     },
@@ -215,7 +215,7 @@
         "name": "Hércules, o Campeão",
         "type": "unidade",
         "cost": 0,
-        "image": "https://i.imgur.com/ABAljYW.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Hércules_o_Campeão.png",
         "isHorizontal": false
       }
     },
@@ -229,14 +229,14 @@
     "face": {
       "front": {
         "name": "Ventania Dispersora",
-        "type": "unidade",
+        "type": "decreto",
         "cost": 0,
-        "image": "https://i.imgur.com/0raQYLy.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Ventania_Dispersora.png",
         "isHorizontal": false
       }
     },
     "name": "Ventania Dispersora",
-    "type": "unidade",
+    "type": "decreto",
     "cost": 0
   },
   "card16": {
@@ -245,14 +245,14 @@
     "face": {
       "front": {
         "name": "Negação Arcana",
-        "type": "unidade",
+        "type": "decreto",
         "cost": 0,
-        "image": "https://i.imgur.com/AZsu01F.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Negação_Arcana.png",
         "isHorizontal": false
       }
     },
     "name": "Negação Arcana",
-    "type": "unidade",
+    "type": "decreto",
     "cost": 0
   },
   "card17": {
@@ -261,14 +261,14 @@
     "face": {
       "front": {
         "name": "Relâmpagos Infindos",
-        "type": "unidade",
+        "type": "decreto",
         "cost": 0,
-        "image": "https://i.imgur.com/mb4iSDJ.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Relâmpagos_Infindos.png",
         "isHorizontal": false
       }
     },
     "name": "Relâmpagos Infindos",
-    "type": "unidade",
+    "type": "decreto",
     "cost": 0
   },
   "card18": {
@@ -279,7 +279,7 @@
         "name": "Raio Menor",
         "type": "decreto",
         "cost": 0,
-        "image": "https://i.imgur.com/LABplKE.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Raio_Menor.png",
         "isHorizontal": false
       }
     },
@@ -293,14 +293,14 @@
     "face": {
       "front": {
         "name": "O Raio Mestre",
-        "type": "unidade",
+        "type": "artefato",
         "cost": 0,
-        "image": "https://i.imgur.com/lPQ9oTH.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/O_Raio_Mestre.png",
         "isHorizontal": false
       }
     },
     "name": "O Raio Mestre",
-    "type": "unidade",
+    "type": "artefato",
     "cost": 0
   },
   "card20": {
@@ -309,14 +309,14 @@
     "face": {
       "front": {
         "name": "Punição do Profanador",
-        "type": "unidade",
+        "type": "decreto",
         "cost": 0,
-        "image": "https://i.imgur.com/DQiFvs5.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Punição_do_Profanador.png",
         "isHorizontal": false
       }
     },
     "name": "Punição do Profanador",
-    "type": "unidade",
+    "type": "decreto",
     "cost": 0
   },
   "card21": {
@@ -325,14 +325,14 @@
     "face": {
       "front": {
         "name": "Xenia, a Lei da Hospitalidade ",
-        "type": "unidade",
+        "type": "decreto",
         "cost": 0,
-        "image": "https://i.imgur.com/wyl6ROE.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Xenia_a_Lei_da_Hospitalidade.png",
         "isHorizontal": false
       }
     },
     "name": "Xenia, a Lei da Hospitalidade ",
-    "type": "unidade",
+    "type": "decreto",
     "cost": 0
   },
   "card22": {
@@ -341,14 +341,14 @@
     "face": {
       "front": {
         "name": "Conduíte de Mana",
-        "type": "decreto",
+        "type": "artefato",
         "cost": 0,
-        "image": "https://i.imgur.com/SiRdRU5.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Conduíte_de_Mana.png",
         "isHorizontal": false
       }
     },
     "name": "Conduíte de Mana",
-    "type": "decreto",
+    "type": "artefato",
     "cost": 0
   },
   "card23": {
@@ -357,14 +357,14 @@
     "face": {
       "front": {
         "name": "O Monte Olimpo",
-        "type": "unidade",
+        "type": "fenda",
         "cost": 0,
-        "image": "https://i.imgur.com/h7wgh3n.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/O_Monte_Olimpo.png",
         "isHorizontal": true
       }
     },
     "name": "O Monte Olimpo",
-    "type": "unidade",
+    "type": "fenda",
     "cost": 0
   },
   "card24": {
@@ -373,14 +373,14 @@
     "face": {
       "front": {
         "name": "Trono de Nuvens",
-        "type": "unidade",
+        "type": "fenda",
         "cost": 0,
-        "image": "https://i.imgur.com/9wkou7X.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Trono_de_Nuvens.png",
         "isHorizontal": true
       }
     },
     "name": "Trono de Nuvens",
-    "type": "unidade",
+    "type": "fenda",
     "cost": 0
   },
   "card25": {
@@ -389,14 +389,14 @@
     "face": {
       "front": {
         "name": "Campo de Batalha da Titanomaquia",
-        "type": "unidade",
+        "type": "fenda",
         "cost": 0,
-        "image": "https://i.imgur.com/FMsrrr8.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Campo_de_Batalha_da_Titanomaquia.png",
         "isHorizontal": true
       }
     },
     "name": "Campo de Batalha da Titanomaquia",
-    "type": "unidade",
+    "type": "fenda",
     "cost": 0
   },
   "flamula01": {
@@ -407,7 +407,7 @@
         "name": "Flâmula Vermelha",
         "type": "flamula",
         "cost": 0,
-        "image": "https://i.imgur.com/wztlzz1.png",
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Flamula_Vermelha.png",
         "isHorizontal": false
       }
     },
@@ -429,29 +429,6 @@
     },
     "name": "Flâmula Amarela",
     "type": "flamula",
-    "cost": 0
-  },
-  "divindade01": {
-    "id": "divindade01",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Zeus",
-        "type": "divindade",
-        "cost": 0,
-        "image": "https://i.imgur.com/jMnh9wi.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "divindade",
-        "cost": 0,
-        "image": "https://i.imgur.com/SbbUeBV.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Zeus",
-    "type": "divindade",
     "cost": 0
   },
   "card28": {
@@ -1266,6 +1243,29 @@
     },
     "name": "A Balança da Verdade",
     "type": "artefato",
+    "cost": 0
+  },
+  "divindade01": {
+    "id": "divindade01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zeus, Soberano das Tempestades",
+        "type": "divindade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Zeus_Soberano_das_Tempestades.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Zeus_Pai_de_Todos",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://vitorlugon.github.io/Vessels/Imagens/Zeus_Pai_de_Todos.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeus, Soberano das Tempestades",
+    "type": "divindade",
     "cost": 0
   }
 }
