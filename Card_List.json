@@ -261,14 +261,14 @@
     "face": {
       "front": {
         "name": "Relâmpagos Infindos",
-        "type": "decreto",
+        "type": "encantamento",
         "cost": 0,
         "image": "https://vitorlugon.github.io/Vessels/Imagens/Relâmpagos_Infindos.png",
         "isHorizontal": false
       }
     },
     "name": "Relâmpagos Infindos",
-    "type": "decreto",
+    "type": "encantamento",
     "cost": 0
   },
   "card18": {
