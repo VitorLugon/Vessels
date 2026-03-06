@@ -33,7 +33,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Se quiser, escolha 1 carta para mulligar",
+        "info": "Escolha quantas quiser para fazer o mulligan",
         "startingHandSize": 7,
         "drawNewHand": false,
         "putSelectionAtBottom": true,
@@ -43,7 +43,7 @@
         "drawOnStart": false,
         "sharedTurn": true,
         "firstPlayerTokenName": "",
-        "drawPerTurn": "2"
+        "drawPerTurn": ""
       },
       "defaultNotes": "",
       "tokens": [],
